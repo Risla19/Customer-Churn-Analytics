@@ -1,0 +1,7 @@
+,Column Labels,,,,,
+,Count of customerID,,Count of customerID2,,Total Count of customerID,Total Count of customerID2
+Row Labels,No,Yes,No,Yes,,
+No,2027,1446,58.36%,41.64%,3473,100.00%
+No internet service,1413,113,92.60%,7.40%,1526,100.00%
+Yes,1734,310,84.83%,15.17%,2044,100.00%
+Grand Total,5174,1869,73.46%,26.54%,7043,100.00%
